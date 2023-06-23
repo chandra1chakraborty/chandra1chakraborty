@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandra1chakraborty
+- 👋 Hi, I’m chandra chakraborty.
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning PHP.
 - 📫 How to reach me ....https://www.linkedin.com/in/chandra-chakraborty-6a7459197/
